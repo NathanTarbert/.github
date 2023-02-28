@@ -22,9 +22,8 @@ We have curated a list of [awesome open-source developer security tools](https:/
 Privacy Vault product is coming soon. We are also in the very early stages of building Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
 
 ## Join BoxyHQ Community 
-Join the community of developer security enthusiasts to discuss DevSecOps, security, compliance and more on our [Discord](https://discord.gg/uyb7pYt4Pa)
-
+Please join the [Discord](https://discord.gg/uyb7pYt4Pa) community of developer security enthusiasts to discuss DevSecOps, security, compliance and more.
 _______
 
 ## Contact Us
-If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
+If you have any questions or just want to chat about enterprise readiness or compliance and security, please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [Twitter](https://twitter.com/BoxyHQ), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
